@@ -133,3 +133,5 @@ Our idea was to let the bot trade for itself but for that goal, you must achieve
 ### Last but not least
 After all, we designed a great bot for trading but it was not the same as our first idea of trading automatically. However, you will not be going to achieve exactly what you want. Remember the Slack company was a game company and the Slack app was their internal app but they find out this small app could change their life rather than a game company.
 In addition, always have in mind, You may not be the first one but may you be the big one in whatever you’ll do. Also at the beginning of the work and projects design a plan, but during working on the project think about your next step, not your final goal, you already have a plan for that.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Freehand&duration=1000&pause=1000&color=909090&center=true&vCenter=true&width=115&height=27&lines=Samuel+Arjasbi)](https://git.io/typing-svg)
