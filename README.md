@@ -16,6 +16,8 @@ For starters, you have to recognize a pattern for trading that trading experts c
 #### Strategy
 Designing a strategy requires a lot of knowledge and experience in that specific market and also you must have great knowledge of traders and market behavior to recognize the patterns. As a result, you can discover a pattern for forecasting future happens in the market, but these strategies are not always accurate and they have the amount of errors percentage but competitions are about the percentage of accuracy. There is a conceptual formula for accuracy percentage “ in a strategy always we have failures and errors, but let's say we want to calculate accuracy or interest percentage per month, then you have to multiply your earned money in that month by 100, and divided by your base money (money you had at the start of the month) so it is your interest percent per month”, most of the beginner traders have 1% profit or in other meaning, they have no much profit also they lose their money. In addition, a lot of the expert traders have between 10% to 20% profit and that is amazing interest percent because for example if you trade with 1000$ and keep your interest percent at 10% for every month in a year. Also, add your monthly profit to your trading money. At the end of the year, you have a 213% interest rate and your total money would be 3,138$, but with a regular interest rate after a year you got 2,200$ and 120% interest.
 
+
+
 ![](https://github.com/samuelarjasbi/The_black_box/blob/main/1643646379821.jpg)
 
 #### A = final amount
@@ -23,3 +25,15 @@ Designing a strategy requires a lot of knowledge and experience in that specific
 #### r = interest rate
 #### n = number of times interest applied per time period
 #### t = number of time periods elapsed
+
+
+
+In our case, we had an experienced trader team which they have more than 10 years of experience in the Tehran stock market, so also they had a specific and amazing strategy, and our duty was to convert the strategy logic to codes. However, I'm not going to explain the strategy details because of the NDA contract for the reason that that is such a hard thing to achieve so traders have the right to keep it dark.
+
+#### Stack
+* Python is one of the best languages for data analysis and data processing also automation.
+* Python has simple syntax so our main focus was on logic and the codes were not going to disrupt us.
+* We were could fast to change the codes for testing more scenarios.
+* Python has a lot of handy libraries for data processing and data visualization.
+Also, we were forced to use Selenium and some web scraping methods and get some data, not through the APIs.
+For the server-side we tried to use Django and MongoDB for the database, also we had to use some machine learning libraries to filter some data, and last but not least we used Microservices Architecture for the reason we had multi-services to keep the project more reliable.
