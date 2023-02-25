@@ -35,5 +35,6 @@ In our case, we had an experienced trader team which they have more than 10 year
 * Python has simple syntax so our main focus was on logic and the codes were not going to disrupt us.
 * We were could fast to change the codes for testing more scenarios.
 * Python has a lot of handy libraries for data processing and data visualization.
+
 Also, we were forced to use Selenium and some web scraping methods and get some data, not through the APIs.
 For the server-side we tried to use Django and MongoDB for the database, also we had to use some machine learning libraries to filter some data, and last but not least we used Microservices Architecture for the reason we had multi-services to keep the project more reliable.
