@@ -38,3 +38,23 @@ In our case, we had an experienced trader team which they have more than 10 year
 
 Also, we were forced to use Selenium and some web scraping methods and get some data, not through the APIs.
 For the server-side we tried to use Django and MongoDB for the database, also we had to use some machine learning libraries to filter some data, and last but not least we used Microservices Architecture for the reason we had multi-services to keep the project more reliable.
+
+### Comparison
+
+#### Expert Bots
+If you hit Google and search for Trading Bots, Trading Automation, Forex Bots, etc … you will get some sites they are all offering you to rent or buy one of they bots. After purchase, you will get a panel or in some cases, you will get an application that you can select your target market for example USD/JPY then it will show you when is the best time to Buy or Sell. These bots are not necessarily scamming or malicious applications in fact in most cases they are legit but as I said before competition is about accuracy. In most cases, let me say in 98% cases you will get a bot that checks the price actions logic in the market, every second, and behaves according to the concepts of price actions methodologies (Technical Trading).
+
+
+#### Personal Bots (Special Bots)
+Personal bots are Strategy bots. As I said before most traders have their own strategy for trading on the market. In fact, the strategies are the specific order of the price actions methods. Let me break it down for you.
+
+We know that every market works based on Supply and Demand law, so traders with economic knowledge can watch the demandants' behaviors and also use technical trading methods and connect those concepts together in order to increase accuracy. Then they test it on the market for a period of time and check the results. It's a trial and error process and it may take in some cases a couple of years and take a lot of effort.
+
+In some cases bots combine with more smart services for example they design methods for observing influential people's tweets, Instagram feeds, or their media activities because it could have a great effect on the market. For example, in February 2021 Elon Musk announced that Tesla bought bitcoins worth $1.5 billion. The cryptocurrency rose by 20 percent in one day, or in another scenario, in March 2021 Elon Musk tweeted ‘I’m getting a Shiba Inu’, on June 25 he said ‘My Shiba Inu will be named Floki’ and finally he tweeted again ’Floki has arrived’ with the picture of his dog sleeping on the rug. As a result of these tweets, Floki Inu rose by 1,000 percent by Sep 15.
+
+#### Whale Bots
+These bots are designed specifically for the whales in the market. Whales are those who have lots of wealth on the market and their activities have a remarkable effect on the market. So the question is why whales need bots for trading. Actually, there is a lot of scenarios we can talk about but let me break down one scenario as an example.
+
+| Cumulative tradings        |
+  -------------
+| In the Iranian stock market, the volume of the market is not that too much rather than the international market. For example, the average market value of a well-known but normal company in Iran is 800,000$ so a whale can easily affect to market if he/she wants to. In a real scenario, a whale can buy a huge amount of company stock with different accounts, for example, buy 10% trading shares with a hundred accounts in close periods of time, so the other traders who watch the stock market going to affected by actions and they follow the way (they get carried away with price actions) and buy the same stock. When this state happens the price goes high and the whale will get for example 100% of profit and then the whale suddenly starts to sell their stocks very quickly and take it’s found out of the market. So let's say whales enter the market with 80,000$ then they can get out with almost 16,000$ in almost 2 hours. |
